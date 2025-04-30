@@ -1,4 +1,4 @@
-# Movie-Recommendation-Syste
+# Movie-Recommendation-System
 This project is a web-based Movie Recommendation System built using HTML, CSS, and JavaScript. It provides a clean, interactive interface for users to explore personalized movie suggestions based on genres, ratings, release dates, and user preferences.
 
 Key Features:
