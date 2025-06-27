@@ -1,12 +1,18 @@
-# Movie-Recommendation-System
-This project is a web-based Movie Recommendation System built using HTML, CSS, and JavaScript. It provides a clean, interactive interface for users to explore personalized movie suggestions based on genres, ratings, release dates, and user preferences.
+# 🎬 Movie Recommendation System
 
-Key Features:
- 1. Dynamic, real-time movie recommendations
- 2. User-friendly design with responsive layout
- 3. Filtering options by genre, rating, and release year
- 4. Predictive suggestions based on user behavior
+A simple and stylish web application that helps you discover and search for popular movies using **The Movie Database (TMDB) API**. Built with **HTML**, **CSS**, and **JavaScript**, this app fetches and displays movies dynamically based on popularity and user input.
 
-The project demonstrates the power of front-end technologies to deliver a seamless and engaging entertainment experience.
+## 🌟 Features
 
-Web Development
+- 🔍 **Search movies** by title
+- 🎞️ **Browse trending movies** by default
+- 📊 **Color-coded ratings** (Green, Orange, Red)
+- 📝 **Overview on hover** with a clean sliding animation
+- 🎨 Fully responsive and styled with modern UI
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- [TMDB API](https://www.themoviedb.org/documentation/api)
