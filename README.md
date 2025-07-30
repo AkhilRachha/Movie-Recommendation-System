@@ -1,6 +1,7 @@
 # 🎬 Movie Recommendation System
 
 A simple and stylish web application that helps you discover and search for popular movies using **The Movie Database (TMDB) API**. Built with **HTML**, **CSS**, and **JavaScript**, this app fetches and displays movies dynamically based on popularity and user input.
+🔗 [Live Demo](https://akhilrachha.github.io/Movie-Recommendation-System/)
 
 ## 🌟 Features
 
